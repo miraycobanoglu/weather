@@ -1,7 +1,9 @@
+import { WeatherPage } from "./pages/WeatherPage"
+
 function App() {
   return (
     <>
-    <span className="bg-red-300">hi</span>
+    <WeatherPage />
     </>
   )
 }
